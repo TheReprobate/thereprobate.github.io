@@ -61,7 +61,7 @@ body {
 }
 
 @media (min-width: 640px) {
-	.heading {
+	.header {
 		font-size: 3rem;
 	}
 }
